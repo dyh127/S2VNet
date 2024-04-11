@@ -1,6 +1,6 @@
 # Clustering Propagation for Universal Medical Image Segmentation
 
-![](figures/fig2.pdf)
+![](figures/fig2.png)
 
 >[Clustering Propagation for Universal Medical Image Segmentation](https://arxiv.org/abs/2403.16646) <br>
 >[Yuhang Ding](https://scholar.google.com/citations?user=2zbnTq8AAAAJ&hl=en), [Liulei Li](https://scholar.google.com/citations?user=eCrBWngAAAAJ&hl=en), [Wenguan Wang](https://sites.google.com/view/wenguanwang), [Yi Yang](https://scholar.google.com/citations?hl=zh-CN&user=RMSuNFwAAAAJ&view_op=list_works)
